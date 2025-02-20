@@ -5,10 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+scalable+and+innovative+solutions;Turning+ideas+into+reality+with+code;Open+to+collaborate+on+exciting+projects!" alt="Typing SVG" />
 </p>
 
- 
+<p align="center" style="background-color: #93C5FD; padding: 20px; border-radius: 10px;">
+  <img src="https://your-gif-link-here.gif" alt="Lottie Animation" width="300" height="300" />
+</p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vishalsingh1431&label=Profile%20views&color=4F46E5&style=flat" alt="vishalsingh1431" /> 
+<p align="left" style="background-color: #93C5FD; padding: 10px; border-radius: 10px;"> 
+  <img src="https://komarev.com/ghpvc/?username=vishalsingh1431&label=Profile%20views&color=4F46E5&style=flat" alt="vishalsingh1431" /> **1k**
 </p>
 
 ---
