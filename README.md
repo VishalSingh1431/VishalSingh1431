@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+scalable+and+innovative+solutions;Turning+ideas+into+reality+with+code;Open+to+collaborate+on+exciting+projects!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://your-gif-link-here.gif" alt="Lottie Animation" width="300" height="300" />
-</p>
+ <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/72b42112-38e7-4200-8888-134817588d83/rMh1cR2eNh.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vishalsingh1431&label=Profile%20views&color=4F46E5&style=flat" alt="vishalsingh1431" /> 
